@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: My Favorite Quote: "Only Action has the Power to Turn Knowledge into Wisdom"
+subtitle: My Favorite Quote is "Only Action has the Power to Turn Knowledge into Wisdom"
 ---
 
 Hi! My name is Javier Adanaque and I consider myself a data geek. So, as you may imagine, I will be writing  a lot about data-related stuff: Stats, R Programming, DataViz & more.
