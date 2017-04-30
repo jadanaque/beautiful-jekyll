@@ -17,17 +17,19 @@ baseurl: ""
 title: Javier Adanaque
 
 # Short description of your site
-description: Enjoying every ~~bite~~ byte...of data!
+description: Enjoying life, one byte at a time!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Projects: "projects"
+  Blog: "http://jadanaque.github.io"
+#  Resources:
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+#    - GitHub Pages: "https://pages.github.com/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
