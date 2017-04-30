@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My Favorite Quote: "Only Action has the Power to Turn Knowledge into Wisdom"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Javier Adanaque and I consider myself a data geek. So, as you may imagine, I will be writing  a lot about data-related stuff: Stats, R Programming, DataViz & more.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am formally trained in economics (major), but currently enrolled in a graduate program in Data Science (a 300  hours program that is not a Master!). I've not settled in one topic yet, but I really enjoy Machine Learning and DataViz.
 
-What else do you need?
+Oh! I almost forget to tell you that I also work ☺. I am a Data Manager at L'Oréal, in Peruvian Headquarters.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Well, thanks for reading something about me. I hope my mix of interests and knowledge make me write stuff you enjoy.
