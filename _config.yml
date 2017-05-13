@@ -92,7 +92,7 @@ url-pretty: "javieradanaque.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "javieradanaque"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
