@@ -95,7 +95,7 @@ url-pretty: "javieradanaque.com"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "javieradanaque"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-99648832-1"
 
 # Google Tag Manager ID
 #gtm: ""
