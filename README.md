@@ -1,6 +1,6 @@
 Javier Adanaque
 ===============
-*Graduate Student in Data Science - Data geek*
+*Graduate Student in Data Science - Data geek - BSc. in Economics*
 
 Personal website and blog.
 
