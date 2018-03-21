@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Group Therapy - Working with groups in R
+title: "Group Therapy: Working with groups in R"
 subtitle: The easy way!
 tags: [rstats, r-bloggers, tutorial, professional]
 ---
