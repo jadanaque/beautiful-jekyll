@@ -2,6 +2,7 @@
 layout: post
 title: "Tidy Tuesday 2019"
 subtitle: My monthly challenge
+bigimg: /img/20190108/tidytuesday_logo.jpg
 tags: [rstats, professional, tidytuesday]
 ---
 
