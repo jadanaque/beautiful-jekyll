@@ -2,7 +2,7 @@
 layout: post
 title: "TidyTuesday W1: Exploring the #tidytuesday hashtag during 2018"
 subtitle: Wordclouds
-bigimg: /img/20190120/by_week-1.png
+bigimg: /img/20190120/wordcloud_all_twitterlogo-1.png
 tags: [rstats, professional, tidytuesday, r-bloggers]
 ---
 
