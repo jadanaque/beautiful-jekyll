@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TidyTuesday W1: Exploring the #tidytuesday hashtag during 2018"
+title: "TidyTuesday Week 1: Exploring the #tidytuesday hashtag during 2018"
 subtitle: Using Wordclouds
 tags: [rstats, professional, tidytuesday, r-bloggers]
 ---
@@ -16,7 +16,7 @@ For example, to get some tweets with the \#TidyTuesday hashtag you can run this 
 
     rt <- search_tweets("#TidyTuesday", include_rts = FALSE)
 
-In this case, the dataset I've chosen to analyze is the one with the \#TidyTuesday hashtag tweets. Let's take a quick look at it:
+For the purpose of this post, the dataset I've chosen to analyze is the one with the \#TidyTuesday hashtag tweets. Let's take a quick look at it:
 
 ``` r
 library(tidyverse)
