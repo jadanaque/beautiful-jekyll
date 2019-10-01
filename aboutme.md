@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: My Favorite Quote is *"Only Action has the Power to Turn Knowledge into Wisdom"* (unknown author)
+subtitle: My Favorite Quote is "Only Action has the Power to Turn Knowledge into Wisdom" (unknown author)
 ---
 
 With a major in economics and many specializations/courses/workshops in Data Science & Machine Learning (in-person & online), I've learned in practice what I've never been taught in any class: It doesn't matter how much you know (tools, methods, software, theory, etc.), what really matters is what you can do with that knowledge. You need to know about the industry, understand the data you have access to and, more importantly, understand the question/problem you are trying to solve. Then you mix this knowledge with your bag of Data Tools (more knowledge) and, using your **creativity**, make sense of all of the data in the best way possible.
