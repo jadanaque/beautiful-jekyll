@@ -30,12 +30,12 @@ and do some physical exercise. And yes, I have a full time job at L'Oréal.
 
 At the time of this writing, I am in day 9 of the \#50DaysofDiscipline Challenge.
 
-My idea is to write weekly a brief summary of the week that just passed.
+My idea is to write weekly a brief summary of the week that just passed, so this post will be updated weekly.
 
 * Week 1
     - Azure Machine Learning: I completed Lesson 1 (introduction to the course) and almost all the lectures in Lesson 2 (Introduction to Machine Learning)
 	I liked the content. I could refresh some basic ML concepts and learn about their implementations in Azure Machine Learning Studio.
 	- Book Reading: Finished reading chapter 4 of [Mastery](https://www.amazon.com/dp/B009U1U2IU).
-	- Physical Training: Mixed some weight training with CrossFit training (at home). On weekend, I went for a bike ride.
+	- Physical Training: Mixed some weight training with CrossFit training (at home). During the weekend I went for a bike ride and some long walks.
 
 * Week 2
