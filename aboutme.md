@@ -8,4 +8,4 @@ With a major in economics and many specializations/courses/workshops in Data Sci
 
 So, this blog is meant to share my experience with different datasets and industries and, along the way, it will be a way for me to practice and strengthen my creativity and everything I am constantly learning.
 
-I am currently in charge of the Data Team at L'Oréal, in the Peruvian HQ, and to know more about me or reach me out, please follow me on [Twitter](https://twitter.com/javierecon) and [LinkedIn](https://www.linkedin.com/in/jadanaque/).
+I am currently in charge of the Data Team for the Digital Division at L'Oréal, in the Peruvian HQ, and at the same time doing my MSc in Data Science & Artificial Intelligence. To know more about me or reach me out, please follow me on [Twitter](https://twitter.com/javierecon) and [LinkedIn](https://www.linkedin.com/in/jadanaque/).
