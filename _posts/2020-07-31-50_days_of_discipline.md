@@ -33,8 +33,8 @@ At the time of this writing, I am in day 9 of the \#50DaysofDiscipline Challenge
 My idea is to write weekly a brief summary of the week that just passed, so this post will be updated weekly.
 
 * Week 1
-    - Azure Machine Learning: I completed Lesson 1 (introduction to the course) and almost all the lectures in Lesson 2 (Introduction to Machine Learning)
-	  I liked the content. I could refresh some basic ML concepts and learn about their implementations in Azure Machine Learning Studio.
+    - Azure Machine Learning: I completed Lesson 1 (introduction to the course) and almost all the lectures in Lesson 2 (Introduction to Machine Learning) <br />
+	I liked the content. I could refresh some basic ML concepts and learn about their implementations in Azure Machine Learning Studio.
 	- Book Reading: Finished reading chapter 4 of [Mastery](https://www.amazon.com/dp/B009U1U2IU).
 	- Physical Training: Mixed some weight training with CrossFit training (at home). During the weekend I went for a bike ride and some long walks.
 
@@ -56,6 +56,6 @@ My idea is to write weekly a brief summary of the week that just passed, so this
 	- Book Reading: I managed to finish chapter 5, but then I had to prioritize some other things :pensive:
 	- Physical Training: I continued doing CrossFit and some weightlifting, but was not able to train everyday.
 	
-
-* Week 5: I had to prioritize my applications (Graduate School) and some other things (like big projects at work and my marriage), so I have to be sincere here: I stopped working on this challenge :cry: <br/>
+  
+* Week 5: I had to prioritize my applications (Graduate School) and some other things (like big projects at work and my marriage), so I have to be sincere here: I stopped working on this challenge :cry: <br />
 However, it was a great challege and I am going to give it another try later. Still, I was able to finish the 8 lessons of the Azure Machine Learning course on time and continued training for at least 4 times a week. I miss reserving 30min-1hour everyday just to read and am looking forward to start this over again; I found it very relaxing and totally worth it.
