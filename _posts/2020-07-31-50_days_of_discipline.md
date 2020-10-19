@@ -57,5 +57,5 @@ My idea is to write weekly a brief summary of the week that just passed, so this
 	- Physical Training: I continued doing CrossFit and some weightlifting, but was not able to train everyday.
 	
 
-* Week 5: I had to prioritize my applications (Graduate School) and some other things (like big projects at work and my marriage), so I have to be sincere here: I stopped working on this challenge :cry:
+* Week 5: I had to prioritize my applications (Graduate School) and some other things (like big projects at work and my marriage), so I have to be sincere here: I stopped working on this challenge :cry: <br/>
 However, it was a great challege and I am going to give it another try later. Still, I was able to finish the 8 lessons of the Azure Machine Learning course on time and continued training for at least 4 times a week. I miss reserving 30min-1hour everyday just to read and am looking forward to start this over again; I found it very relaxing and totally worth it.
